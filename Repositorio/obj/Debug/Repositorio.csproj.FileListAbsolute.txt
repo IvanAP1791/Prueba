@@ -1,0 +1,9 @@
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\bin\Debug\Dominio.dll
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\bin\Debug\Dominio.pdb
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Ivo\source\repos\Pruebapractica\Repositorio\obj\Debug\Repositorio.pdb
